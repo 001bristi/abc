@@ -65,11 +65,11 @@ pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2022.2.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==304
-pywinpty==1.1.6
-pyzmq==23.2.1
-requests==2.27.1
-rich==12.5.1
+pywin32
+pywinpty
+pyzmq
+requests
+rich
 scipy==1.5.4
 seaborn==0.11.2
 semver==2.13.0
